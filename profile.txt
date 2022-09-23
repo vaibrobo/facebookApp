@@ -1,0 +1,21 @@
+editprofile ()
+
+{
+...
+...
+
+
+***
+
+***
+}
+
+addEducation() // dev4
+
+update work experiance()
+...
+
+
+
+toShowPhotoGallery() //dev4
+
