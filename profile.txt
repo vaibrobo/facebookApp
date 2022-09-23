@@ -16,6 +16,6 @@ update work experiance()
 ...
 
 
-
+new changes ()..
 toShowPhotoGallery() //dev4
 
